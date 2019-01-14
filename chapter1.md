@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Greedy vs. Non-greedy matching
+
+```yaml
+type: VideoExercise
+key: 9f5cf13c42
+xp: 50
+```
+
+`@projector_key`
+00527424522105360f240205a6167713
